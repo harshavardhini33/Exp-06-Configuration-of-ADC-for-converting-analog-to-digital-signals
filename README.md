@@ -1,9 +1,9 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 
-## Name : HARSHAVARDHINI M	
-## Roll no: 212221240015
-## Date of experiment : 7/11/22
+### Name : HARSHAVARDHINI M	
+### Roll no: 212221240015
+### Date of experiment : 7/11/22
   
   
 ## Aim: To configure internal ADC for   LPC2148 ARM 7 and write a code for displaying the values varying from 0v to 3.3v to its equivalent digital values 
